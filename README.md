@@ -1,5 +1,5 @@
 ## Olá, seja bem-vindo, eu sou Gabriel Martins
-Conheça meus trabalhos e projetos tenho certeza que vc vai gostar
+Conheça meus principais projetos tenho certeza que vc vai gostar
 <div align="center">
 </div>
 
